@@ -6,17 +6,17 @@ This project was made for detecting coins from image using OpenCV function Hough
 
 # Requirements
 
-caer==2.0.8
-mypy==0.961
-mypy-extensions==0.4.3
-numpy==1.23.0
-opencv-contrib-python==4.6.0.66
-tomli==2.0.1
-typing-extensions==4.2.0openCV
+1. caer==2.0.8
+2. mypy==0.961
+3. mypy-extensions==0.4.3
+4. numpy==1.23.0
+5. opencv-contrib-python==4.6.0.66
+6. tomli==2.0.1
+7. typing-extensions==4.2.0openCV
 
 You can install all the required libraries by running the following command
 
-pip install requirements.txt
+#### pip install requirements.txt
 
 # Functionalities
 
